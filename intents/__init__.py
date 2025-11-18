@@ -1,0 +1,12 @@
+from intents.get_date_intent import get_date_tool
+from intents.start_radio_intent import start_radio_tool
+from intents.switch_shelf_intent import switch_cabinet_position_tool
+from intents.detect_groceries_intent import detect_groceries_tool
+from intents.get_feedback_intent import process_feedback_tool
+from intents.get_temperature_intent import get_temperature_tool
+from intents.google_search_intent import google_search_tool
+from intents.spotify_intent import spotify_playback_tool
+from intents.stop_all_music_intent import stop_all_music_tool
+from intents.get_inventory_by_name_intent import check_product_availability_tool
+
+TOOLS = [get_date_tool, start_radio_tool, switch_cabinet_position_tool, detect_groceries_tool, process_feedback_tool, get_temperature_tool, google_search_tool, spotify_playback_tool, stop_all_music_tool, check_product_availability_tool]

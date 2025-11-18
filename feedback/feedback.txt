@@ -1,0 +1,7 @@
+6
+Feedback: I encountered an issue while trying to create a playlist on Spotify. The assistant did not respond correctly.
+Feedback: Es gab Probleme mit dem Spotify-Player.
+Feedback: There is a problem with the language understanding.
+Feedback: There is a problem with the cabinet position intent. It does not know if the cabinet is open or closed.
+Du hast ein Problem mit dem Spotify-Player.
+Please allow me a moment to get the current season in Istanbul.

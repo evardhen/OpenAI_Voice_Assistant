@@ -1,0 +1,12 @@
+__pycache__
+.env
+.cache
+usb_4_mic_array/
+speech_model/
+pictures/
+audios/*
+!/audios/.gitkeep
+pyproject.toml
+uv.lock
+.venv/
+.python-version
